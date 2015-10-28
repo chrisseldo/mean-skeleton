@@ -9,7 +9,7 @@ MEAN Skeleton w/ one starter model
 
 `npm install`
 
----------------------------------
+then
 
 `bower install`
 
